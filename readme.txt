@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 create a github edit line
 create another branch
 create new another branch
+testing stash
